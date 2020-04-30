@@ -1,3 +1,8 @@
+# Edit Date: 30th April, 2020
+# Edit Notes: This file was written by Stefan Baumann (stefanb0305). I include it here for completion. 
+
+
+
 # Got a bit of help for getting proxies and rotating them from:
 #   https://codelike.pro/create-a-crawler-with-rotating-ip-proxy-in-python/
 
