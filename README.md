@@ -1,6 +1,6 @@
 # Property Pricer: a QuAM
 
-### Stefan Baumann and Nadim Bou Alwan 
+### Nadim Bou Alwan and Stefan Baumann (stefanb0305) 
 ### 22 April 2020
 
 Our project is a simple query answering machine. Given certain information about a specific piece of property, this machine predicts how much that property would cost to rent (per month in QAR). This can be useful for understanding current market prices, and how to buy/sell property.  
