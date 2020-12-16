@@ -3,7 +3,7 @@
 ### Nadim Bou Alwan and Stefan Baumann (stefanb0305) 
 ### 22 April 2020
 
-Our project is a simple query answering machine. Given certain information about a specific piece of property, this machine predicts how much that property would cost to rent (per month in QAR). This can be useful for understanding current market prices, and how to buy/sell property.  
+Our project is a simple query answering machine. Given certain information about a specific piece of property, this machine predicts how much that property would cost to rent (per month in QAR). This can be useful for understanding current market prices, and how much to buy/sell property for.  
 
 To use this machine, please run the QuAM.ipynb file. Ignore the code and scroll to the bottom to where you will find fields where you must give in the features of your property, and when you are done click "Submit", which you will be given a prediction.
 
